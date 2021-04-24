@@ -1,11 +1,10 @@
 .jumbotron {
     box-shadow: 5px 5px 7px 0px rgba(135,135,135,0.83);
-    background-image: url("../../utils/images/book-cover.jpg");
+    background-image: url("https://www.wenhammuseum.org/wp-content/uploads/2014/08/library-banner.jpg");
     background-size: cover;
     height: 500px;
     background-position: center;
 }
-
 .myText {
     color: white;
     font-weight: bold;
